@@ -16,9 +16,9 @@ This tool provides a user-friendly interface for:
 ## 📁 Project Structure
 
 
-.
-├── backend/                # Node.js/Express backend
-│   ├── src/                # Source code
+
+├── backend/                                                                                                                              # Node.js/Express backend
+│   ├── src/                                                                                                                              # Source code
 │   │   ├── config/         # Configuration files
 │   │   ├── controllers/    # Request handlers
 │   │   ├── routes/         # API route definitions
